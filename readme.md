@@ -1,5 +1,1 @@
-The app uses the following APIs
-
-- pandas
-- numpy 
-- xlsxread
+The app uses the sandbox version of IEX Cloud
